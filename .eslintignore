@@ -1,0 +1,6 @@
+dist
+.vscode
+coverage
+esm
+lib
+node_modules
